@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lazyidlli/static/css/main.4f4938b5.css",
+    "main.js": "/lazyidlli/static/js/main.117afe5f.js",
+    "static/js/787.a86f3764.chunk.js": "/lazyidlli/static/js/787.a86f3764.chunk.js",
+    "index.html": "/lazyidlli/index.html",
+    "main.4f4938b5.css.map": "/lazyidlli/static/css/main.4f4938b5.css.map",
+    "main.117afe5f.js.map": "/lazyidlli/static/js/main.117afe5f.js.map",
+    "787.a86f3764.chunk.js.map": "/lazyidlli/static/js/787.a86f3764.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f4938b5.css",
+    "static/js/main.117afe5f.js"
+  ]
+}
